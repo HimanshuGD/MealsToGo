@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "3d18191f-7222-4684-b3c8-17e74e6a7587"
+      }
+    },
+    "android": {
+      "package": "com.himupooni.mealstogomain"
+    }
+  }
+}

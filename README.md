@@ -1,1 +1,2 @@
 # MealsToGo
+As an aspiring professional, I have developed a Zomato-like mobile application using React Native, Expo, and Firebase. This app allows users to register, log in, and search for restaurants in various locations. Users can save their favorite restaurants, view them on a map, and even make payments within the app. The project showcases my skills in frontend development using React Native, integration of Firebase for user authentication and data management, as well as creating an intuitive and engaging user experience.
